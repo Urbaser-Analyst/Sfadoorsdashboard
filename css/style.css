@@ -257,3 +257,7 @@ table.data-table tbody tr{ cursor:pointer; }
 .link-btn{ background:none; border:none; color:var(--teal); font-weight:700; cursor:pointer; font-size:12.5px; padding:0; }
 .badge-row{ display:flex; gap:6px; flex-wrap:wrap; }
 .small-note{ font-size:11px; color:var(--ink-faint); margin-top:6px; }
+
+[hidden] {
+  display: none !important;
+}
